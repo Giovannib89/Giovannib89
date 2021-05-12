@@ -1,5 +1,5 @@
 # Giovannib89
-# Bienvenu !  
+# Bienvenue !  
 
 ###  :seedling: :herb: <ins>**Je m'appelle Giovanni, développeur en herbe bientôt sur le marché !**</ins> :herb: :seedling:
 
