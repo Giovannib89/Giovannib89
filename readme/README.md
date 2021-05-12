@@ -1,7 +1,6 @@
 # Bienvenu !  
 
 ###  :seedling: :herb: <ins>**Je m'appelle Giovanni, développeur en herbe bientôt sur le marché !**</ins> :herb: :seedling:
-### :seedling: :herb:  **Je m'appelle Giovanni, développeur en herbe bientôt sur le marché !** :herb: :seedling:
 
 :computer: :globe_with_meridians: :mortar_board: Actuellement en pleine formation dans la prestigieuse école **O'clock** pour devenir un **développeur Fullstack JavaScript** :mortar_board: :globe_with_meridians: :computer:
 
